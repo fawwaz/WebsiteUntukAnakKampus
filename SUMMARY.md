@@ -19,5 +19,4 @@
 	* [Konfigurasi Umum](Bagian-4/Konfigurasi Umum.md)
 	* [Ke mana harus belajar ?](Bagian-4/Belajar Lebih Jauh.md)
 * [FAQ : Frequently Asked Question](FAQ.md)
-
 	
