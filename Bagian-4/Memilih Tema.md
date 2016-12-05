@@ -73,7 +73,7 @@ Hal selanjutnya yang harus kamu lakukan adalh menambahkan konten yang sudah dibu
 
 untuk melakukanya, pilih checkbox disamping nama pages (halaman) / categories, tekan tombol add. `set menu` yang sedang dibuat akan mengandung halaman/post/kategori/link yang kita tambahkan tadi.
 
-![](../img/Bagian-4/menu-add3.jpg)
+![](../img/Bagian-4/menu-add3.JPG)
 
 Kamu bisa juga membuat sebuah menu memiliki induk menu lainya. Untuk melakukanya kamu cukup melakukan drag-and-drop menu untuk bergeser ke kanan / kiri agar menjadi sub-menu dari suatu menu. Dalam kasus disini saya mencontohkan menu `visi & Misi` menjadi parent menu dari menu `kontak` dan `organigram`. Jangan lupa tekan tombol save
 
@@ -91,7 +91,7 @@ Terakhir, setelah kamu puas membuat set menu, hal harus kamu lakukan adalah meng
 
 Ternyata tema yang saya gunakan mendukung 2 lokasi menu. Beberapa tema lain mungkin hanya menndukung satu lokasi menu. Oleh karena itu jangan khawatir jika ada sedikit perbedaan dalam bagian ini.
 
-![](../img/Bagan-4/menu-add7.jpg)
+![](../img/Bagian-4/menu-add7.jpg)
 
 Perhatikan, bahwa semua set menu yang pernah saya buat akan muncul sebagai dropdown pada pilihan aktivasi menu diatas. Silahkan pilih menu yang ingin diaktifkan, jangan lupa tekan tombol save.
 
@@ -107,7 +107,7 @@ Widget adalah perluasan fungsi wordpress yang ditampilkan secara visual di setia
 
 Kamu bisa mengatur widget yang digunakan melalui 2 metode. Metode pertama dengan mengaturnya pada bagian `Customize`, metode kedua dengan akses dari sidemenu di halaman admin. Kali ini saya akan membahas mengatur widget dengan melalui sidemenu
 
-![](../img/Bagian-4/widgets.jpg)
+![](../img/Bagian-4/widgets.JPG)
 
 Pada diagram diatas, bagian kiri berisi widgets yang tersedia / sudah terinstall di dalam wordpress sementara bagian kanan berisi lokasi-lokasi yang disupport oleh tema ini. Kebetulan tema ini mendukung 3 lokasi widget. Setiap tema memiliki perbedaan jumlah lokasi widget yang di dukung.
 
