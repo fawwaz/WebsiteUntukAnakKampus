@@ -13,13 +13,13 @@ Sebagaimana Nomor Induk Kependudukan dalam KTP, setiap komputer di internet memi
 
 Ada 2 versi IP Address, IP versi 4 & Versi 6. Saat ini IPV4 masih populer digunakan. IPV4 terdiri dari 4 buah angka 0-255 yang dipisahkan oleh titik (contoh : 0.0.0.0 , 192.168.1.1, 8.8.8.8 , 127.0.0.1 dst..).
 
-![](../img/Bagian-1/domain.jpg)
+![](../img/Bagian-1/domain.JPG)
 
 Untuk membuka sebuah website, sebenarnya seseorang "harus" mengetahui angka tersebut. Sebagai contoh, website google sebenarnya memiliki beberapa nomor identitas , salah satunya 74.125.200.100 (silahkan cek di browser / lihat screenshot dibawah). Karena manusia lebih sulit menghafal nama dibanding angka, maka digunakanlah domain untuk menerjemahkan antara nomor identitas komputer dengan nama tertentu yang mudah diingat. Dalam kasus google, nama domainya adalah google.com dan IP Addressnya 74.125.200.100. Kamu bisa membuka website google dengan memasukan salah satu dari IP Address atau domain-nya.
 
 ## Fasilitas di kampus
 
-![](../img/Bagian-1/usdi.jpg)
+![](../img/Bagian-1/usdi.JPG)
 
 Pihak kampus melalui USDI (Unit Sumber Daya Informasi - https://ditsti.itb.ac.id/layanan-web-hosting/) menyediakan fasilitas berupa hosting dan domain &ast;.itb.ac.id gratis. Syaratnya kamu hanya perlu datang langsung ke gedung Comlabs, tanyakan bagaimana pendaftaran untuk meminta hosting dan domain gratis dari ITB. Setahu saya dulu, kamu tingal mengisi sebuah formulir dan menyerahkanya ke comlabs. Jadi, jika kamu adalah perwakilan Unit Kegiatan Mahasiswa / Himpunan, jangan malas untuk mengelola hak ini. Ini juga yang saya sesalkan kenapa tidak ada regenerasi tentang informasi hal ini.
 
