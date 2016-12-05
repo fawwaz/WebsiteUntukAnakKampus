@@ -1,10 +1,10 @@
 # Prakata
 
-![](../img/buku.jpg)
+![cover](https://fawwaz.gitbooks.io/fawwaz-websiteuntukanakkampus/content/img/buku.jpg)
 
 Satu waktu, saya mendapatkan pengumuman massal (broadcast message) dari Official Line Account KM ITB.  Dalam pengumumanya tersebut, disertakan sebuah link menuju detail pengumumanya menggunakan domain kmitb.top. Terus terang, saya heran karena link yang digunakan menggunakan Top Level Domain "Dot Top (kmitb.top)". Seolah-olah selama ini pihak kampus tidak pernah menyediakan fasilitas domain yang "lebih profesional" (&ast;.ac.id). Link unik tadi tidak hanya digunakan oleh Official Line Account KM ITB, bahkan saat saya menerima pengumuman massal dari Official Line Account Himpunan saya pun, top level domain yang digunakan bukan top level domain &ast;.ac.id.
 
-![](../img/Bagian-1/kmitb.JPG)
+![line account](https://fawwaz.gitbooks.io/fawwaz-websiteuntukanakkampus/content/img/Bagian-1/kmitb.JPG)
 
 Di sisi lain, ada beberapa organisasi kampus yang bahkan tidak memiliki website organisasi sama sekali / tidak memiliki website yang memadai. Mungkin karena tidak ada anggota dari organisasi tersebut yang didedikasikan secara khusus untuk mengelola website profil organisasi. Sementara itu, jika organisasi tersebut menyewa tenaga outsource untuk membuat profil organisasi, harus ada biaya yang dikeluarkan. Padahal, biasanya alokasi biaya organisasi tehadap pembuatan website sangat terbatas.
 
