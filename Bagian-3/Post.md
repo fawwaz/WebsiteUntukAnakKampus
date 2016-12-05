@@ -10,7 +10,7 @@ Pada bagian ini kamu dapat melihat daftar post yang sudah kamu buat. Kamu bisa m
 
 Tekan tombol add new post. Kamu akan dibawa ke sebuah halaman baru untuk menambahkan postingan baru di wordpress seperti berikut
 
-![](../img/Bagian-3/post-1.JPG)
+![](../img/Bagian-3/post-1.jpg)
 
 Pada gambar diatas terdapat 3 bagian 
 
